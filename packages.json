@@ -1,0 +1,16 @@
+{
+    "repositories": [
+        {
+            "type": "project",
+            "package": {
+                "name": "erickcomp/laravel",
+                "version": "1.0.0",
+                "source": {
+                    "url": "https://github.com/erickcomp/laravel.git",
+                    "type": "git",
+                    "reference": "master"
+                  }
+             }
+        }
+    ]
+}
